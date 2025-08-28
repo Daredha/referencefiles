@@ -1,0 +1,2217 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            ""
+        ]
+    },
+    "items": [
+        {
+            "id": "https://example.org/canvas/p1",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "1"
+                ]
+            },
+            "height": 4234,
+            "width": 3543,
+            "items": [
+                {
+                    "id": "https://example.org/page/p1/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://example.org/annotation/p1-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0471.jpg/full/3543,/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0471.jpg",
+                                        "type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "https://example.org/canvas/p1"
+                        }
+                    ]
+                }
+            ],
+            "thumbnail": [
+                {
+                    "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0471.jpg/full/200,/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0471.jpg",
+                            "type": "ImageService2",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://example.org/canvas/p2",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "2"
+                ]
+            },
+            "height": 958,
+            "width": 993,
+            "items": [
+                {
+                    "id": "https://example.org/page/p2/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://example.org/annotation/p2-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0480.jpg/full/993,/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0480.jpg",
+                                        "type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "https://example.org/canvas/p2"
+                        }
+                    ]
+                }
+            ],
+            "thumbnail": [
+                {
+                    "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0480.jpg/full/200,/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0480.jpg",
+                            "type": "ImageService2",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://example.org/canvas/p3",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "3"
+                ]
+            },
+            "height": 931,
+            "width": 463,
+            "items": [
+                {
+                    "id": "https://example.org/page/p3/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://example.org/annotation/p3-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0481.jpg/full/463,/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0481.jpg",
+                                        "type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "https://example.org/canvas/p3"
+                        }
+                    ]
+                }
+            ],
+            "thumbnail": [
+                {
+                    "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0481.jpg/full/200,/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0481.jpg",
+                            "type": "ImageService2",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://example.org/canvas/p4",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "4"
+                ]
+            },
+            "height": 3505,
+            "width": 2024,
+            "items": [
+                {
+                    "id": "https://example.org/page/p4/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://example.org/annotation/p4-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0482.jpg/full/2024,/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0482.jpg",
+                                        "type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "https://example.org/canvas/p4"
+                        }
+                    ]
+                }
+            ],
+            "thumbnail": [
+                {
+                    "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0482.jpg/full/200,/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0482.jpg",
+                            "type": "ImageService2",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://example.org/canvas/p5",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "5"
+                ]
+            },
+            "height": 1668,
+            "width": 2500,
+            "items": [
+                {
+                    "id": "https://example.org/page/p5/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://example.org/annotation/p5-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0483.jpg/full/2500,/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0483.jpg",
+                                        "type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "https://example.org/canvas/p5"
+                        }
+                    ]
+                }
+            ],
+            "thumbnail": [
+                {
+                    "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0483.jpg/full/200,/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0483.jpg",
+                            "type": "ImageService2",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://example.org/canvas/p6",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "6"
+                ]
+            },
+            "height": 1668,
+            "width": 2500,
+            "items": [
+                {
+                    "id": "https://example.org/page/p6/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://example.org/annotation/p6-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0484.jpg/full/2500,/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0484.jpg",
+                                        "type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "https://example.org/canvas/p6"
+                        }
+                    ]
+                }
+            ],
+            "thumbnail": [
+                {
+                    "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0484.jpg/full/200,/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0484.jpg",
+                            "type": "ImageService2",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://example.org/canvas/p7",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "7"
+                ]
+            },
+            "height": 292,
+            "width": 908,
+            "items": [
+                {
+                    "id": "https://example.org/page/p7/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://example.org/annotation/p7-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0485.jpg/full/908,/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0485.jpg",
+                                        "type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "https://example.org/canvas/p7"
+                        }
+                    ]
+                }
+            ],
+            "thumbnail": [
+                {
+                    "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0485.jpg/full/200,/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0485.jpg",
+                            "type": "ImageService2",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://example.org/canvas/p8",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "8"
+                ]
+            },
+            "height": 1942,
+            "width": 1920,
+            "items": [
+                {
+                    "id": "https://example.org/page/p8/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://example.org/annotation/p8-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0486.jpg/full/1920,/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0486.jpg",
+                                        "type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "https://example.org/canvas/p8"
+                        }
+                    ]
+                }
+            ],
+            "thumbnail": [
+                {
+                    "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0486.jpg/full/200,/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0486.jpg",
+                            "type": "ImageService2",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://example.org/canvas/p9",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "9"
+                ]
+            },
+            "height": 3543,
+            "width": 2414,
+            "items": [
+                {
+                    "id": "https://example.org/page/p9/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://example.org/annotation/p9-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0487.jpg/full/2414,/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0487.jpg",
+                                        "type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "https://example.org/canvas/p9"
+                        }
+                    ]
+                }
+            ],
+            "thumbnail": [
+                {
+                    "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0487.jpg/full/200,/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0487.jpg",
+                            "type": "ImageService2",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://example.org/canvas/p10",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "10"
+                ]
+            },
+            "height": 2081,
+            "width": 2427,
+            "items": [
+                {
+                    "id": "https://example.org/page/p10/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://example.org/annotation/p10-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0488.jpg/full/2427,/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0488.jpg",
+                                        "type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "https://example.org/canvas/p10"
+                        }
+                    ]
+                }
+            ],
+            "thumbnail": [
+                {
+                    "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0488.jpg/full/200,/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0488.jpg",
+                            "type": "ImageService2",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://example.org/canvas/p11",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "11"
+                ]
+            },
+            "height": 2500,
+            "width": 2500,
+            "items": [
+                {
+                    "id": "https://example.org/page/p11/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://example.org/annotation/p11-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0489.jpg/full/2500,/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0489.jpg",
+                                        "type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "https://example.org/canvas/p11"
+                        }
+                    ]
+                }
+            ],
+            "thumbnail": [
+                {
+                    "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0489.jpg/full/200,/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0489.jpg",
+                            "type": "ImageService2",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://example.org/canvas/p12",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "12"
+                ]
+            },
+            "height": 6510,
+            "width": 5447,
+            "items": [
+                {
+                    "id": "https://example.org/page/p12/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://example.org/annotation/p12-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0491.jpg/full/5447,/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0491.jpg",
+                                        "type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "https://example.org/canvas/p12"
+                        }
+                    ]
+                }
+            ],
+            "thumbnail": [
+                {
+                    "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0491.jpg/full/200,/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0491.jpg",
+                            "type": "ImageService2",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://example.org/canvas/p13",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "13"
+                ]
+            },
+            "height": 3543,
+            "width": 2363,
+            "items": [
+                {
+                    "id": "https://example.org/page/p13/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://example.org/annotation/p13-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0492.jpg/full/2363,/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0492.jpg",
+                                        "type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "https://example.org/canvas/p13"
+                        }
+                    ]
+                }
+            ],
+            "thumbnail": [
+                {
+                    "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0492.jpg/full/200,/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0492.jpg",
+                            "type": "ImageService2",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://example.org/canvas/p14",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "14"
+                ]
+            },
+            "height": 1668,
+            "width": 2500,
+            "items": [
+                {
+                    "id": "https://example.org/page/p14/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://example.org/annotation/p14-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0493.jpg/full/2500,/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0493.jpg",
+                                        "type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "https://example.org/canvas/p14"
+                        }
+                    ]
+                }
+            ],
+            "thumbnail": [
+                {
+                    "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0493.jpg/full/200,/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0493.jpg",
+                            "type": "ImageService2",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://example.org/canvas/p15",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "15"
+                ]
+            },
+            "height": 955,
+            "width": 935,
+            "items": [
+                {
+                    "id": "https://example.org/page/p15/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://example.org/annotation/p15-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0494.jpg/full/935,/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0494.jpg",
+                                        "type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "https://example.org/canvas/p15"
+                        }
+                    ]
+                }
+            ],
+            "thumbnail": [
+                {
+                    "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0494.jpg/full/200,/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0494.jpg",
+                            "type": "ImageService2",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://example.org/canvas/p16",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "16"
+                ]
+            },
+            "height": 2426,
+            "width": 1920,
+            "items": [
+                {
+                    "id": "https://example.org/page/p16/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://example.org/annotation/p16-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0495.jpg/full/1920,/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0495.jpg",
+                                        "type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "https://example.org/canvas/p16"
+                        }
+                    ]
+                }
+            ],
+            "thumbnail": [
+                {
+                    "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0495.jpg/full/200,/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0495.jpg",
+                            "type": "ImageService2",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://example.org/canvas/p17",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "17"
+                ]
+            },
+            "height": 1851,
+            "width": 2500,
+            "items": [
+                {
+                    "id": "https://example.org/page/p17/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://example.org/annotation/p17-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0496.jpg/full/2500,/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0496.jpg",
+                                        "type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "https://example.org/canvas/p17"
+                        }
+                    ]
+                }
+            ],
+            "thumbnail": [
+                {
+                    "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0496.jpg/full/200,/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0496.jpg",
+                            "type": "ImageService2",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://example.org/canvas/p18",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "18"
+                ]
+            },
+            "height": 3505,
+            "width": 2252,
+            "items": [
+                {
+                    "id": "https://example.org/page/p18/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://example.org/annotation/p18-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0497.jpg/full/2252,/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0497.jpg",
+                                        "type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "https://example.org/canvas/p18"
+                        }
+                    ]
+                }
+            ],
+            "thumbnail": [
+                {
+                    "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0497.jpg/full/200,/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0497.jpg",
+                            "type": "ImageService2",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://example.org/canvas/p19",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "19"
+                ]
+            },
+            "height": 2081,
+            "width": 2006,
+            "items": [
+                {
+                    "id": "https://example.org/page/p19/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://example.org/annotation/p19-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0498.jpg/full/2006,/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0498.jpg",
+                                        "type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "https://example.org/canvas/p19"
+                        }
+                    ]
+                }
+            ],
+            "thumbnail": [
+                {
+                    "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0498.jpg/full/200,/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0498.jpg",
+                            "type": "ImageService2",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://example.org/canvas/p20",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "20"
+                ]
+            },
+            "height": 2500,
+            "width": 1668,
+            "items": [
+                {
+                    "id": "https://example.org/page/p20/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://example.org/annotation/p20-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0499.jpg/full/1668,/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0499.jpg",
+                                        "type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "https://example.org/canvas/p20"
+                        }
+                    ]
+                }
+            ],
+            "thumbnail": [
+                {
+                    "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0499.jpg/full/200,/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0499.jpg",
+                            "type": "ImageService2",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://example.org/canvas/p21",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "21"
+                ]
+            },
+            "height": 7211,
+            "width": 5342,
+            "items": [
+                {
+                    "id": "https://example.org/page/p21/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://example.org/annotation/p21-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0501.jpg/full/5342,/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0501.jpg",
+                                        "type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "https://example.org/canvas/p21"
+                        }
+                    ]
+                }
+            ],
+            "thumbnail": [
+                {
+                    "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0501.jpg/full/200,/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0501.jpg",
+                            "type": "ImageService2",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://example.org/canvas/p22",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "22"
+                ]
+            },
+            "height": 1920,
+            "width": 2030,
+            "items": [
+                {
+                    "id": "https://example.org/page/p22/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://example.org/annotation/p22-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0502.jpg/full/2030,/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0502.jpg",
+                                        "type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "https://example.org/canvas/p22"
+                        }
+                    ]
+                }
+            ],
+            "thumbnail": [
+                {
+                    "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0502.jpg/full/200,/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0502.jpg",
+                            "type": "ImageService2",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://example.org/canvas/p23",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "23"
+                ]
+            },
+            "height": 1899,
+            "width": 2500,
+            "items": [
+                {
+                    "id": "https://example.org/page/p23/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://example.org/annotation/p23-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0503.jpg/full/2500,/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0503.jpg",
+                                        "type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "https://example.org/canvas/p23"
+                        }
+                    ]
+                }
+            ],
+            "thumbnail": [
+                {
+                    "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0503.jpg/full/200,/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0503.jpg",
+                            "type": "ImageService2",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://example.org/canvas/p24",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "24"
+                ]
+            },
+            "height": 1668,
+            "width": 2500,
+            "items": [
+                {
+                    "id": "https://example.org/page/p24/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://example.org/annotation/p24-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0504.jpg/full/2500,/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0504.jpg",
+                                        "type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "https://example.org/canvas/p24"
+                        }
+                    ]
+                }
+            ],
+            "thumbnail": [
+                {
+                    "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0504.jpg/full/200,/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0504.jpg",
+                            "type": "ImageService2",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://example.org/canvas/p25",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "25"
+                ]
+            },
+            "height": 2500,
+            "width": 1590,
+            "items": [
+                {
+                    "id": "https://example.org/page/p25/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://example.org/annotation/p25-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0505.jpg/full/1590,/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0505.jpg",
+                                        "type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "https://example.org/canvas/p25"
+                        }
+                    ]
+                }
+            ],
+            "thumbnail": [
+                {
+                    "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0505.jpg/full/200,/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0505.jpg",
+                            "type": "ImageService2",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://example.org/canvas/p26",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "26"
+                ]
+            },
+            "height": 684,
+            "width": 824,
+            "items": [
+                {
+                    "id": "https://example.org/page/p26/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://example.org/annotation/p26-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0506.jpg/full/824,/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0506.jpg",
+                                        "type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "https://example.org/canvas/p26"
+                        }
+                    ]
+                }
+            ],
+            "thumbnail": [
+                {
+                    "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0506.jpg/full/200,/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0506.jpg",
+                            "type": "ImageService2",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://example.org/canvas/p27",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "27"
+                ]
+            },
+            "height": 567,
+            "width": 851,
+            "items": [
+                {
+                    "id": "https://example.org/page/p27/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://example.org/annotation/p27-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0507.jpg/full/851,/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0507.jpg",
+                                        "type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "https://example.org/canvas/p27"
+                        }
+                    ]
+                }
+            ],
+            "thumbnail": [
+                {
+                    "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0507.jpg/full/200,/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0507.jpg",
+                            "type": "ImageService2",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://example.org/canvas/p28",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "28"
+                ]
+            },
+            "height": 1799,
+            "width": 2481,
+            "items": [
+                {
+                    "id": "https://example.org/page/p28/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://example.org/annotation/p28-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0508.jpg/full/2481,/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0508.jpg",
+                                        "type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "https://example.org/canvas/p28"
+                        }
+                    ]
+                }
+            ],
+            "thumbnail": [
+                {
+                    "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0508.jpg/full/200,/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0508.jpg",
+                            "type": "ImageService2",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://example.org/canvas/p29",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "29"
+                ]
+            },
+            "height": 4881,
+            "width": 6897,
+            "items": [
+                {
+                    "id": "https://example.org/page/p29/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://example.org/annotation/p29-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0509.jpg/full/6897,/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0509.jpg",
+                                        "type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "https://example.org/canvas/p29"
+                        }
+                    ]
+                }
+            ],
+            "thumbnail": [
+                {
+                    "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0509.jpg/full/200,/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0509.jpg",
+                            "type": "ImageService2",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://example.org/canvas/p30",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "30"
+                ]
+            },
+            "height": 5312,
+            "width": 3543,
+            "items": [
+                {
+                    "id": "https://example.org/page/p30/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://example.org/annotation/p30-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0510.jpg/full/3543,/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0510.jpg",
+                                        "type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "https://example.org/canvas/p30"
+                        }
+                    ]
+                }
+            ],
+            "thumbnail": [
+                {
+                    "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0510.jpg/full/200,/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0510.jpg",
+                            "type": "ImageService2",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://example.org/canvas/p31",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "31"
+                ]
+            },
+            "height": 2635,
+            "width": 3543,
+            "items": [
+                {
+                    "id": "https://example.org/page/p31/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://example.org/annotation/p31-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0511.jpg/full/3543,/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0511.jpg",
+                                        "type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "https://example.org/canvas/p31"
+                        }
+                    ]
+                }
+            ],
+            "thumbnail": [
+                {
+                    "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0511.jpg/full/200,/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0511.jpg",
+                            "type": "ImageService2",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://example.org/canvas/p32",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "32"
+                ]
+            },
+            "height": 1880,
+            "width": 2500,
+            "items": [
+                {
+                    "id": "https://example.org/page/p32/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://example.org/annotation/p32-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0512.jpg/full/2500,/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0512.jpg",
+                                        "type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "https://example.org/canvas/p32"
+                        }
+                    ]
+                }
+            ],
+            "thumbnail": [
+                {
+                    "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0512.jpg/full/200,/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0512.jpg",
+                            "type": "ImageService2",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://example.org/canvas/p33",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "33"
+                ]
+            },
+            "height": 1918,
+            "width": 2500,
+            "items": [
+                {
+                    "id": "https://example.org/page/p33/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://example.org/annotation/p33-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0513.jpg/full/2500,/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0513.jpg",
+                                        "type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "https://example.org/canvas/p33"
+                        }
+                    ]
+                }
+            ],
+            "thumbnail": [
+                {
+                    "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0513.jpg/full/200,/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0513.jpg",
+                            "type": "ImageService2",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://example.org/canvas/p34",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "34"
+                ]
+            },
+            "height": 1868,
+            "width": 2500,
+            "items": [
+                {
+                    "id": "https://example.org/page/p34/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://example.org/annotation/p34-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0514.jpg/full/2500,/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0514.jpg",
+                                        "type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "https://example.org/canvas/p34"
+                        }
+                    ]
+                }
+            ],
+            "thumbnail": [
+                {
+                    "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0514.jpg/full/200,/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0514.jpg",
+                            "type": "ImageService2",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://example.org/canvas/p35",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "35"
+                ]
+            },
+            "height": 1867,
+            "width": 2500,
+            "items": [
+                {
+                    "id": "https://example.org/page/p35/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://example.org/annotation/p35-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0515.jpg/full/2500,/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0515.jpg",
+                                        "type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "https://example.org/canvas/p35"
+                        }
+                    ]
+                }
+            ],
+            "thumbnail": [
+                {
+                    "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0515.jpg/full/200,/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0515.jpg",
+                            "type": "ImageService2",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://example.org/canvas/p36",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "36"
+                ]
+            },
+            "height": 1881,
+            "width": 2500,
+            "items": [
+                {
+                    "id": "https://example.org/page/p36/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://example.org/annotation/p36-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0516.jpg/full/2500,/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0516.jpg",
+                                        "type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "https://example.org/canvas/p36"
+                        }
+                    ]
+                }
+            ],
+            "thumbnail": [
+                {
+                    "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0516.jpg/full/200,/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0516.jpg",
+                            "type": "ImageService2",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://example.org/canvas/p37",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "37"
+                ]
+            },
+            "height": 1880,
+            "width": 2500,
+            "items": [
+                {
+                    "id": "https://example.org/page/p37/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://example.org/annotation/p37-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0517.jpg/full/2500,/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0517.jpg",
+                                        "type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "https://example.org/canvas/p37"
+                        }
+                    ]
+                }
+            ],
+            "thumbnail": [
+                {
+                    "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0517.jpg/full/200,/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0517.jpg",
+                            "type": "ImageService2",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://example.org/canvas/p38",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "38"
+                ]
+            },
+            "height": 2468,
+            "width": 1920,
+            "items": [
+                {
+                    "id": "https://example.org/page/p38/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://example.org/annotation/p38-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0518.jpg/full/1920,/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0518.jpg",
+                                        "type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "https://example.org/canvas/p38"
+                        }
+                    ]
+                }
+            ],
+            "thumbnail": [
+                {
+                    "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0518.jpg/full/200,/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0518.jpg",
+                            "type": "ImageService2",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://example.org/canvas/p39",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "39"
+                ]
+            },
+            "height": 2500,
+            "width": 1783,
+            "items": [
+                {
+                    "id": "https://example.org/page/p39/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://example.org/annotation/p39-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0519.jpg/full/1783,/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0519.jpg",
+                                        "type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "https://example.org/canvas/p39"
+                        }
+                    ]
+                }
+            ],
+            "thumbnail": [
+                {
+                    "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0519.jpg/full/200,/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0519.jpg",
+                            "type": "ImageService2",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://example.org/canvas/p40",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "40"
+                ]
+            },
+            "height": 2500,
+            "width": 1913,
+            "items": [
+                {
+                    "id": "https://example.org/page/p40/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://example.org/annotation/p40-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0520.jpg/full/1913,/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0520.jpg",
+                                        "type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "https://example.org/canvas/p40"
+                        }
+                    ]
+                }
+            ],
+            "thumbnail": [
+                {
+                    "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0520.jpg/full/200,/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0520.jpg",
+                            "type": "ImageService2",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://example.org/canvas/p41",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "41"
+                ]
+            },
+            "height": 2464,
+            "width": 1920,
+            "items": [
+                {
+                    "id": "https://example.org/page/p41/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://example.org/annotation/p41-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0521.jpg/full/1920,/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0521.jpg",
+                                        "type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "https://example.org/canvas/p41"
+                        }
+                    ]
+                }
+            ],
+            "thumbnail": [
+                {
+                    "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0521.jpg/full/200,/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0521.jpg",
+                            "type": "ImageService2",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://example.org/canvas/p42",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "42"
+                ]
+            },
+            "height": 2476,
+            "width": 1920,
+            "items": [
+                {
+                    "id": "https://example.org/page/p42/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://example.org/annotation/p42-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0522.jpg/full/1920,/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0522.jpg",
+                                        "type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "https://example.org/canvas/p42"
+                        }
+                    ]
+                }
+            ],
+            "thumbnail": [
+                {
+                    "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0522.jpg/full/200,/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0522.jpg",
+                            "type": "ImageService2",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://example.org/canvas/p43",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "43"
+                ]
+            },
+            "height": 2500,
+            "width": 1899,
+            "items": [
+                {
+                    "id": "https://example.org/page/p43/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://example.org/annotation/p43-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0523.jpg/full/1899,/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0523.jpg",
+                                        "type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "https://example.org/canvas/p43"
+                        }
+                    ]
+                }
+            ],
+            "thumbnail": [
+                {
+                    "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0523.jpg/full/200,/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "id": "https://iiif.razu.nl/iiif/2/t01__nl-wbdrazu-t01-0523.jpg",
+                            "type": "ImageService2",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "requiredStatement": {
+        "label": {
+            "en": [
+                "Copyright"
+            ]
+        },
+        "value": {
+            "en": [
+                ""
+            ]
+        }
+    }
+}
