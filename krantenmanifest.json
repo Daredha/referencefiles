@@ -1,0 +1,1558 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://data.razu.nl/id/object/nl-wbdrazu-k50907905-689-1130387",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            ""
+        ]
+    },
+    "items": [
+        {
+            "id": "https://data.razu.nl/iiif/canvas/nl-wbdrazu-k50907905-689-1138571",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "1"
+                ]
+            },
+            "height": "7003",
+            "width": "5040",
+            "items": [
+                {
+                    "id": "https://data.razu.nl/iiif/page/nl-wbdrazu-k50907905-689-1138571/painting-annotation-page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://data.razu.nl/iiif/annotation/nl-wbdrazu-k50907905-689-1138571",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://iiif.razu.nl/iiif/2/k50907905__nl-wbdrazu__k50907905__689__001__138__nl-wbdrazu-k50907905-689-1138571.jpg/full/5040,/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.razu.nl/iiif/2/k50907905__nl-wbdrazu__k50907905__689__001__138__nl-wbdrazu-k50907905-689-1138571.jpg",
+                                        "type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "https://data.razu.nl/iiif/canvas/nl-wbdrazu-k50907905-689-1138571"
+                        }
+                    ]
+                }
+            ],
+            "seeAlso": [
+                {
+                    "@id": "https://k50907905.opslag.razu.nl/nl-wbdrazu/k50907905/689/001/138/nl-wbdrazu-k50907905-689-1138572.alto.xml?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTYzNzA4NTIsIm5iZiI6MTc1NjM3MDg1MiwiZXhwIjoxNzU2Mzc0NDUyLCJmaWxlIjoiL25sLXdiZHJhenUvazUwOTA3OTA1LzY4OS8wMDEvMTM4L25sLXdiZHJhenUtazUwOTA3OTA1LTY4OS0xMTM4NTcyLmFsdG8ueG1sIn0._Jpn46PqlJ2QXg7Fd0sb3TqiwznNaHE5FoPLUASG-bo",
+                    "profile": "http://www.loc.gov/standards/alto/v3/alto.xsd",
+                    "format": "text/xml+alto",
+                    "label": "METS-ALTO XML"
+                }
+            ],
+            "thumbnail": [
+                {
+                    "id": "https://iiif.razu.nl/iiif/2/k50907905__nl-wbdrazu__k50907905__689__001__138__nl-wbdrazu-k50907905-689-1138571.jpg/full/200,/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "id": "https://iiif.razu.nl/iiif/2/k50907905__nl-wbdrazu__k50907905__689__001__138__nl-wbdrazu-k50907905-689-1138571.jpg",
+                            "type": "ImageService2",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://data.razu.nl/iiif/canvas/nl-wbdrazu-k50907905-689-1138573",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "2"
+                ]
+            },
+            "height": "6991",
+            "width": "4902",
+            "items": [
+                {
+                    "id": "https://data.razu.nl/iiif/page/nl-wbdrazu-k50907905-689-1138573/painting-annotation-page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://data.razu.nl/iiif/annotation/nl-wbdrazu-k50907905-689-1138573",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://iiif.razu.nl/iiif/2/k50907905__nl-wbdrazu__k50907905__689__001__138__nl-wbdrazu-k50907905-689-1138573.jpg/full/4902,/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.razu.nl/iiif/2/k50907905__nl-wbdrazu__k50907905__689__001__138__nl-wbdrazu-k50907905-689-1138573.jpg",
+                                        "type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "https://data.razu.nl/iiif/canvas/nl-wbdrazu-k50907905-689-1138573"
+                        }
+                    ]
+                }
+            ],
+            "seeAlso": [
+                {
+                    "@id": "https://k50907905.opslag.razu.nl/nl-wbdrazu/k50907905/689/001/138/nl-wbdrazu-k50907905-689-1138574.alto.xml?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTYzNzA4NTIsIm5iZiI6MTc1NjM3MDg1MiwiZXhwIjoxNzU2Mzc0NDUyLCJmaWxlIjoiL25sLXdiZHJhenUvazUwOTA3OTA1LzY4OS8wMDEvMTM4L25sLXdiZHJhenUtazUwOTA3OTA1LTY4OS0xMTM4NTc0LmFsdG8ueG1sIn0.gR96FfyRdBCukBsHW6vgHgJMchpkodOZzGTj1bgR3lM",
+                    "profile": "http://www.loc.gov/standards/alto/v3/alto.xsd",
+                    "format": "text/xml+alto",
+                    "label": "METS-ALTO XML"
+                }
+            ],
+            "thumbnail": [
+                {
+                    "id": "https://iiif.razu.nl/iiif/2/k50907905__nl-wbdrazu__k50907905__689__001__138__nl-wbdrazu-k50907905-689-1138573.jpg/full/200,/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "id": "https://iiif.razu.nl/iiif/2/k50907905__nl-wbdrazu__k50907905__689__001__138__nl-wbdrazu-k50907905-689-1138573.jpg",
+                            "type": "ImageService2",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://data.razu.nl/iiif/canvas/nl-wbdrazu-k50907905-689-1138575",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "3"
+                ]
+            },
+            "height": "7007",
+            "width": "5048",
+            "items": [
+                {
+                    "id": "https://data.razu.nl/iiif/page/nl-wbdrazu-k50907905-689-1138575/painting-annotation-page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://data.razu.nl/iiif/annotation/nl-wbdrazu-k50907905-689-1138575",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://iiif.razu.nl/iiif/2/k50907905__nl-wbdrazu__k50907905__689__001__138__nl-wbdrazu-k50907905-689-1138575.jpg/full/5048,/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.razu.nl/iiif/2/k50907905__nl-wbdrazu__k50907905__689__001__138__nl-wbdrazu-k50907905-689-1138575.jpg",
+                                        "type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "https://data.razu.nl/iiif/canvas/nl-wbdrazu-k50907905-689-1138575"
+                        }
+                    ]
+                }
+            ],
+            "seeAlso": [
+                {
+                    "@id": "https://k50907905.opslag.razu.nl/nl-wbdrazu/k50907905/689/001/138/nl-wbdrazu-k50907905-689-1138576.alto.xml?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTYzNzA4NTIsIm5iZiI6MTc1NjM3MDg1MiwiZXhwIjoxNzU2Mzc0NDUyLCJmaWxlIjoiL25sLXdiZHJhenUvazUwOTA3OTA1LzY4OS8wMDEvMTM4L25sLXdiZHJhenUtazUwOTA3OTA1LTY4OS0xMTM4NTc2LmFsdG8ueG1sIn0.8Xfpc-FfIJME6hvp-1u6LtkIAGJogden06mfqt6906w",
+                    "profile": "http://www.loc.gov/standards/alto/v3/alto.xsd",
+                    "format": "text/xml+alto",
+                    "label": "METS-ALTO XML"
+                }
+            ],
+            "thumbnail": [
+                {
+                    "id": "https://iiif.razu.nl/iiif/2/k50907905__nl-wbdrazu__k50907905__689__001__138__nl-wbdrazu-k50907905-689-1138575.jpg/full/200,/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "id": "https://iiif.razu.nl/iiif/2/k50907905__nl-wbdrazu__k50907905__689__001__138__nl-wbdrazu-k50907905-689-1138575.jpg",
+                            "type": "ImageService2",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://data.razu.nl/iiif/canvas/nl-wbdrazu-k50907905-689-1138577",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "4"
+                ]
+            },
+            "height": "6987",
+            "width": "4906",
+            "items": [
+                {
+                    "id": "https://data.razu.nl/iiif/page/nl-wbdrazu-k50907905-689-1138577/painting-annotation-page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://data.razu.nl/iiif/annotation/nl-wbdrazu-k50907905-689-1138577",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://iiif.razu.nl/iiif/2/k50907905__nl-wbdrazu__k50907905__689__001__138__nl-wbdrazu-k50907905-689-1138577.jpg/full/4906,/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.razu.nl/iiif/2/k50907905__nl-wbdrazu__k50907905__689__001__138__nl-wbdrazu-k50907905-689-1138577.jpg",
+                                        "type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "https://data.razu.nl/iiif/canvas/nl-wbdrazu-k50907905-689-1138577"
+                        }
+                    ]
+                }
+            ],
+            "seeAlso": [
+                {
+                    "@id": "https://k50907905.opslag.razu.nl/nl-wbdrazu/k50907905/689/001/138/nl-wbdrazu-k50907905-689-1138578.alto.xml?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTYzNzA4NTIsIm5iZiI6MTc1NjM3MDg1MiwiZXhwIjoxNzU2Mzc0NDUyLCJmaWxlIjoiL25sLXdiZHJhenUvazUwOTA3OTA1LzY4OS8wMDEvMTM4L25sLXdiZHJhenUtazUwOTA3OTA1LTY4OS0xMTM4NTc4LmFsdG8ueG1sIn0.ThZw0wyUjjwF9MdC1BjgCmLi0RjFfEL8bejVp5FueTw",
+                    "profile": "http://www.loc.gov/standards/alto/v3/alto.xsd",
+                    "format": "text/xml+alto",
+                    "label": "METS-ALTO XML"
+                }
+            ],
+            "thumbnail": [
+                {
+                    "id": "https://iiif.razu.nl/iiif/2/k50907905__nl-wbdrazu__k50907905__689__001__138__nl-wbdrazu-k50907905-689-1138577.jpg/full/200,/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "id": "https://iiif.razu.nl/iiif/2/k50907905__nl-wbdrazu__k50907905__689__001__138__nl-wbdrazu-k50907905-689-1138577.jpg",
+                            "type": "ImageService2",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://data.razu.nl/iiif/canvas/nl-wbdrazu-k50907905-689-1138579",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "5"
+                ]
+            },
+            "height": "7011",
+            "width": "5052",
+            "items": [
+                {
+                    "id": "https://data.razu.nl/iiif/page/nl-wbdrazu-k50907905-689-1138579/painting-annotation-page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://data.razu.nl/iiif/annotation/nl-wbdrazu-k50907905-689-1138579",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://iiif.razu.nl/iiif/2/k50907905__nl-wbdrazu__k50907905__689__001__138__nl-wbdrazu-k50907905-689-1138579.jpg/full/5052,/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.razu.nl/iiif/2/k50907905__nl-wbdrazu__k50907905__689__001__138__nl-wbdrazu-k50907905-689-1138579.jpg",
+                                        "type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "https://data.razu.nl/iiif/canvas/nl-wbdrazu-k50907905-689-1138579"
+                        }
+                    ]
+                }
+            ],
+            "seeAlso": [
+                {
+                    "@id": "https://k50907905.opslag.razu.nl/nl-wbdrazu/k50907905/689/001/138/nl-wbdrazu-k50907905-689-1138580.alto.xml?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTYzNzA4NTIsIm5iZiI6MTc1NjM3MDg1MiwiZXhwIjoxNzU2Mzc0NDUyLCJmaWxlIjoiL25sLXdiZHJhenUvazUwOTA3OTA1LzY4OS8wMDEvMTM4L25sLXdiZHJhenUtazUwOTA3OTA1LTY4OS0xMTM4NTgwLmFsdG8ueG1sIn0.1fTLWfGSqrq3NY66BMlxjmH-FBw4V0XxSv7fWHyETRE",
+                    "profile": "http://www.loc.gov/standards/alto/v3/alto.xsd",
+                    "format": "text/xml+alto",
+                    "label": "METS-ALTO XML"
+                }
+            ],
+            "thumbnail": [
+                {
+                    "id": "https://iiif.razu.nl/iiif/2/k50907905__nl-wbdrazu__k50907905__689__001__138__nl-wbdrazu-k50907905-689-1138579.jpg/full/200,/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "id": "https://iiif.razu.nl/iiif/2/k50907905__nl-wbdrazu__k50907905__689__001__138__nl-wbdrazu-k50907905-689-1138579.jpg",
+                            "type": "ImageService2",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://data.razu.nl/iiif/canvas/nl-wbdrazu-k50907905-689-1138581",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "6"
+                ]
+            },
+            "height": "6987",
+            "width": "4906",
+            "items": [
+                {
+                    "id": "https://data.razu.nl/iiif/page/nl-wbdrazu-k50907905-689-1138581/painting-annotation-page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://data.razu.nl/iiif/annotation/nl-wbdrazu-k50907905-689-1138581",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://iiif.razu.nl/iiif/2/k50907905__nl-wbdrazu__k50907905__689__001__138__nl-wbdrazu-k50907905-689-1138581.jpg/full/4906,/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.razu.nl/iiif/2/k50907905__nl-wbdrazu__k50907905__689__001__138__nl-wbdrazu-k50907905-689-1138581.jpg",
+                                        "type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "https://data.razu.nl/iiif/canvas/nl-wbdrazu-k50907905-689-1138581"
+                        }
+                    ]
+                }
+            ],
+            "seeAlso": [
+                {
+                    "@id": "https://k50907905.opslag.razu.nl/nl-wbdrazu/k50907905/689/001/138/nl-wbdrazu-k50907905-689-1138582.alto.xml?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTYzNzA4NTIsIm5iZiI6MTc1NjM3MDg1MiwiZXhwIjoxNzU2Mzc0NDUyLCJmaWxlIjoiL25sLXdiZHJhenUvazUwOTA3OTA1LzY4OS8wMDEvMTM4L25sLXdiZHJhenUtazUwOTA3OTA1LTY4OS0xMTM4NTgyLmFsdG8ueG1sIn0.oE84c9aQYpdy6M-fFIp6Ss-PNzZsstETHR1c2WgM4Yk",
+                    "profile": "http://www.loc.gov/standards/alto/v3/alto.xsd",
+                    "format": "text/xml+alto",
+                    "label": "METS-ALTO XML"
+                }
+            ],
+            "thumbnail": [
+                {
+                    "id": "https://iiif.razu.nl/iiif/2/k50907905__nl-wbdrazu__k50907905__689__001__138__nl-wbdrazu-k50907905-689-1138581.jpg/full/200,/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "id": "https://iiif.razu.nl/iiif/2/k50907905__nl-wbdrazu__k50907905__689__001__138__nl-wbdrazu-k50907905-689-1138581.jpg",
+                            "type": "ImageService2",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://data.razu.nl/iiif/canvas/nl-wbdrazu-k50907905-689-1138583",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "7"
+                ]
+            },
+            "height": "7003",
+            "width": "5056",
+            "items": [
+                {
+                    "id": "https://data.razu.nl/iiif/page/nl-wbdrazu-k50907905-689-1138583/painting-annotation-page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://data.razu.nl/iiif/annotation/nl-wbdrazu-k50907905-689-1138583",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://iiif.razu.nl/iiif/2/k50907905__nl-wbdrazu__k50907905__689__001__138__nl-wbdrazu-k50907905-689-1138583.jpg/full/5056,/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.razu.nl/iiif/2/k50907905__nl-wbdrazu__k50907905__689__001__138__nl-wbdrazu-k50907905-689-1138583.jpg",
+                                        "type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "https://data.razu.nl/iiif/canvas/nl-wbdrazu-k50907905-689-1138583"
+                        }
+                    ]
+                }
+            ],
+            "seeAlso": [
+                {
+                    "@id": "https://k50907905.opslag.razu.nl/nl-wbdrazu/k50907905/689/001/138/nl-wbdrazu-k50907905-689-1138584.alto.xml?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTYzNzA4NTIsIm5iZiI6MTc1NjM3MDg1MiwiZXhwIjoxNzU2Mzc0NDUyLCJmaWxlIjoiL25sLXdiZHJhenUvazUwOTA3OTA1LzY4OS8wMDEvMTM4L25sLXdiZHJhenUtazUwOTA3OTA1LTY4OS0xMTM4NTg0LmFsdG8ueG1sIn0.IjXcsAEj-0YgZCurltQxxJpcjzD_4BQ7wiCeoMAEk40",
+                    "profile": "http://www.loc.gov/standards/alto/v3/alto.xsd",
+                    "format": "text/xml+alto",
+                    "label": "METS-ALTO XML"
+                }
+            ],
+            "thumbnail": [
+                {
+                    "id": "https://iiif.razu.nl/iiif/2/k50907905__nl-wbdrazu__k50907905__689__001__138__nl-wbdrazu-k50907905-689-1138583.jpg/full/200,/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "id": "https://iiif.razu.nl/iiif/2/k50907905__nl-wbdrazu__k50907905__689__001__138__nl-wbdrazu-k50907905-689-1138583.jpg",
+                            "type": "ImageService2",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://data.razu.nl/iiif/canvas/nl-wbdrazu-k50907905-689-1138585",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "8"
+                ]
+            },
+            "height": "6983",
+            "width": "4902",
+            "items": [
+                {
+                    "id": "https://data.razu.nl/iiif/page/nl-wbdrazu-k50907905-689-1138585/painting-annotation-page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://data.razu.nl/iiif/annotation/nl-wbdrazu-k50907905-689-1138585",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://iiif.razu.nl/iiif/2/k50907905__nl-wbdrazu__k50907905__689__001__138__nl-wbdrazu-k50907905-689-1138585.jpg/full/4902,/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.razu.nl/iiif/2/k50907905__nl-wbdrazu__k50907905__689__001__138__nl-wbdrazu-k50907905-689-1138585.jpg",
+                                        "type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "https://data.razu.nl/iiif/canvas/nl-wbdrazu-k50907905-689-1138585"
+                        }
+                    ]
+                }
+            ],
+            "seeAlso": [
+                {
+                    "@id": "https://k50907905.opslag.razu.nl/nl-wbdrazu/k50907905/689/001/138/nl-wbdrazu-k50907905-689-1138586.alto.xml?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTYzNzA4NTIsIm5iZiI6MTc1NjM3MDg1MiwiZXhwIjoxNzU2Mzc0NDUyLCJmaWxlIjoiL25sLXdiZHJhenUvazUwOTA3OTA1LzY4OS8wMDEvMTM4L25sLXdiZHJhenUtazUwOTA3OTA1LTY4OS0xMTM4NTg2LmFsdG8ueG1sIn0.Th7b1VlMUhhuaZRETA5QvlD5bWnz9PHpYq6rCdrNfJQ",
+                    "profile": "http://www.loc.gov/standards/alto/v3/alto.xsd",
+                    "format": "text/xml+alto",
+                    "label": "METS-ALTO XML"
+                }
+            ],
+            "thumbnail": [
+                {
+                    "id": "https://iiif.razu.nl/iiif/2/k50907905__nl-wbdrazu__k50907905__689__001__138__nl-wbdrazu-k50907905-689-1138585.jpg/full/200,/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "id": "https://iiif.razu.nl/iiif/2/k50907905__nl-wbdrazu__k50907905__689__001__138__nl-wbdrazu-k50907905-689-1138585.jpg",
+                            "type": "ImageService2",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://data.razu.nl/iiif/canvas/nl-wbdrazu-k50907905-689-1138587",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "9"
+                ]
+            },
+            "height": "7007",
+            "width": "5040",
+            "items": [
+                {
+                    "id": "https://data.razu.nl/iiif/page/nl-wbdrazu-k50907905-689-1138587/painting-annotation-page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://data.razu.nl/iiif/annotation/nl-wbdrazu-k50907905-689-1138587",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://iiif.razu.nl/iiif/2/k50907905__nl-wbdrazu__k50907905__689__001__138__nl-wbdrazu-k50907905-689-1138587.jpg/full/5040,/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.razu.nl/iiif/2/k50907905__nl-wbdrazu__k50907905__689__001__138__nl-wbdrazu-k50907905-689-1138587.jpg",
+                                        "type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "https://data.razu.nl/iiif/canvas/nl-wbdrazu-k50907905-689-1138587"
+                        }
+                    ]
+                }
+            ],
+            "seeAlso": [
+                {
+                    "@id": "https://k50907905.opslag.razu.nl/nl-wbdrazu/k50907905/689/001/138/nl-wbdrazu-k50907905-689-1138588.alto.xml?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTYzNzA4NTIsIm5iZiI6MTc1NjM3MDg1MiwiZXhwIjoxNzU2Mzc0NDUyLCJmaWxlIjoiL25sLXdiZHJhenUvazUwOTA3OTA1LzY4OS8wMDEvMTM4L25sLXdiZHJhenUtazUwOTA3OTA1LTY4OS0xMTM4NTg4LmFsdG8ueG1sIn0.oUzPyFx98FU6j1vnRwxxle9dU-wxokx455Mba5Gzw0A",
+                    "profile": "http://www.loc.gov/standards/alto/v3/alto.xsd",
+                    "format": "text/xml+alto",
+                    "label": "METS-ALTO XML"
+                }
+            ],
+            "thumbnail": [
+                {
+                    "id": "https://iiif.razu.nl/iiif/2/k50907905__nl-wbdrazu__k50907905__689__001__138__nl-wbdrazu-k50907905-689-1138587.jpg/full/200,/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "id": "https://iiif.razu.nl/iiif/2/k50907905__nl-wbdrazu__k50907905__689__001__138__nl-wbdrazu-k50907905-689-1138587.jpg",
+                            "type": "ImageService2",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://data.razu.nl/iiif/canvas/nl-wbdrazu-k50907905-689-1138589",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "10"
+                ]
+            },
+            "height": "6987",
+            "width": "4886",
+            "items": [
+                {
+                    "id": "https://data.razu.nl/iiif/page/nl-wbdrazu-k50907905-689-1138589/painting-annotation-page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://data.razu.nl/iiif/annotation/nl-wbdrazu-k50907905-689-1138589",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://iiif.razu.nl/iiif/2/k50907905__nl-wbdrazu__k50907905__689__001__138__nl-wbdrazu-k50907905-689-1138589.jpg/full/4886,/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.razu.nl/iiif/2/k50907905__nl-wbdrazu__k50907905__689__001__138__nl-wbdrazu-k50907905-689-1138589.jpg",
+                                        "type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "https://data.razu.nl/iiif/canvas/nl-wbdrazu-k50907905-689-1138589"
+                        }
+                    ]
+                }
+            ],
+            "seeAlso": [
+                {
+                    "@id": "https://k50907905.opslag.razu.nl/nl-wbdrazu/k50907905/689/001/138/nl-wbdrazu-k50907905-689-1138590.alto.xml?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTYzNzA4NTIsIm5iZiI6MTc1NjM3MDg1MiwiZXhwIjoxNzU2Mzc0NDUyLCJmaWxlIjoiL25sLXdiZHJhenUvazUwOTA3OTA1LzY4OS8wMDEvMTM4L25sLXdiZHJhenUtazUwOTA3OTA1LTY4OS0xMTM4NTkwLmFsdG8ueG1sIn0.pbemRTn-ufRTjOJxxi4vvSV9oqodan_8kim-8GuHr3w",
+                    "profile": "http://www.loc.gov/standards/alto/v3/alto.xsd",
+                    "format": "text/xml+alto",
+                    "label": "METS-ALTO XML"
+                }
+            ],
+            "thumbnail": [
+                {
+                    "id": "https://iiif.razu.nl/iiif/2/k50907905__nl-wbdrazu__k50907905__689__001__138__nl-wbdrazu-k50907905-689-1138589.jpg/full/200,/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "id": "https://iiif.razu.nl/iiif/2/k50907905__nl-wbdrazu__k50907905__689__001__138__nl-wbdrazu-k50907905-689-1138589.jpg",
+                            "type": "ImageService2",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://data.razu.nl/iiif/canvas/nl-wbdrazu-k50907905-689-1138591",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "11"
+                ]
+            },
+            "height": "7003",
+            "width": "5052",
+            "items": [
+                {
+                    "id": "https://data.razu.nl/iiif/page/nl-wbdrazu-k50907905-689-1138591/painting-annotation-page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://data.razu.nl/iiif/annotation/nl-wbdrazu-k50907905-689-1138591",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://iiif.razu.nl/iiif/2/k50907905__nl-wbdrazu__k50907905__689__001__138__nl-wbdrazu-k50907905-689-1138591.jpg/full/5052,/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.razu.nl/iiif/2/k50907905__nl-wbdrazu__k50907905__689__001__138__nl-wbdrazu-k50907905-689-1138591.jpg",
+                                        "type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "https://data.razu.nl/iiif/canvas/nl-wbdrazu-k50907905-689-1138591"
+                        }
+                    ]
+                }
+            ],
+            "seeAlso": [
+                {
+                    "@id": "https://k50907905.opslag.razu.nl/nl-wbdrazu/k50907905/689/001/138/nl-wbdrazu-k50907905-689-1138592.alto.xml?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTYzNzA4NTIsIm5iZiI6MTc1NjM3MDg1MiwiZXhwIjoxNzU2Mzc0NDUyLCJmaWxlIjoiL25sLXdiZHJhenUvazUwOTA3OTA1LzY4OS8wMDEvMTM4L25sLXdiZHJhenUtazUwOTA3OTA1LTY4OS0xMTM4NTkyLmFsdG8ueG1sIn0.NttJ3PVa22O1SBVd14mVOzqfwMTPwKDmhV34bfesfiM",
+                    "profile": "http://www.loc.gov/standards/alto/v3/alto.xsd",
+                    "format": "text/xml+alto",
+                    "label": "METS-ALTO XML"
+                }
+            ],
+            "thumbnail": [
+                {
+                    "id": "https://iiif.razu.nl/iiif/2/k50907905__nl-wbdrazu__k50907905__689__001__138__nl-wbdrazu-k50907905-689-1138591.jpg/full/200,/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "id": "https://iiif.razu.nl/iiif/2/k50907905__nl-wbdrazu__k50907905__689__001__138__nl-wbdrazu-k50907905-689-1138591.jpg",
+                            "type": "ImageService2",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://data.razu.nl/iiif/canvas/nl-wbdrazu-k50907905-689-1138593",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "12"
+                ]
+            },
+            "height": "6983",
+            "width": "4934",
+            "items": [
+                {
+                    "id": "https://data.razu.nl/iiif/page/nl-wbdrazu-k50907905-689-1138593/painting-annotation-page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://data.razu.nl/iiif/annotation/nl-wbdrazu-k50907905-689-1138593",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://iiif.razu.nl/iiif/2/k50907905__nl-wbdrazu__k50907905__689__001__138__nl-wbdrazu-k50907905-689-1138593.jpg/full/4934,/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.razu.nl/iiif/2/k50907905__nl-wbdrazu__k50907905__689__001__138__nl-wbdrazu-k50907905-689-1138593.jpg",
+                                        "type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "https://data.razu.nl/iiif/canvas/nl-wbdrazu-k50907905-689-1138593"
+                        }
+                    ]
+                }
+            ],
+            "seeAlso": [
+                {
+                    "@id": "https://k50907905.opslag.razu.nl/nl-wbdrazu/k50907905/689/001/138/nl-wbdrazu-k50907905-689-1138594.alto.xml?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTYzNzA4NTIsIm5iZiI6MTc1NjM3MDg1MiwiZXhwIjoxNzU2Mzc0NDUyLCJmaWxlIjoiL25sLXdiZHJhenUvazUwOTA3OTA1LzY4OS8wMDEvMTM4L25sLXdiZHJhenUtazUwOTA3OTA1LTY4OS0xMTM4NTk0LmFsdG8ueG1sIn0.xvW_VT32xcWncknn3t8X-Dw44ui1K7o9EgVIUEn9xgo",
+                    "profile": "http://www.loc.gov/standards/alto/v3/alto.xsd",
+                    "format": "text/xml+alto",
+                    "label": "METS-ALTO XML"
+                }
+            ],
+            "thumbnail": [
+                {
+                    "id": "https://iiif.razu.nl/iiif/2/k50907905__nl-wbdrazu__k50907905__689__001__138__nl-wbdrazu-k50907905-689-1138593.jpg/full/200,/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "id": "https://iiif.razu.nl/iiif/2/k50907905__nl-wbdrazu__k50907905__689__001__138__nl-wbdrazu-k50907905-689-1138593.jpg",
+                            "type": "ImageService2",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://data.razu.nl/iiif/canvas/nl-wbdrazu-k50907905-689-1138595",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "13"
+                ]
+            },
+            "height": "7003",
+            "width": "5036",
+            "items": [
+                {
+                    "id": "https://data.razu.nl/iiif/page/nl-wbdrazu-k50907905-689-1138595/painting-annotation-page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://data.razu.nl/iiif/annotation/nl-wbdrazu-k50907905-689-1138595",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://iiif.razu.nl/iiif/2/k50907905__nl-wbdrazu__k50907905__689__001__138__nl-wbdrazu-k50907905-689-1138595.jpg/full/5036,/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.razu.nl/iiif/2/k50907905__nl-wbdrazu__k50907905__689__001__138__nl-wbdrazu-k50907905-689-1138595.jpg",
+                                        "type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "https://data.razu.nl/iiif/canvas/nl-wbdrazu-k50907905-689-1138595"
+                        }
+                    ]
+                }
+            ],
+            "seeAlso": [
+                {
+                    "@id": "https://k50907905.opslag.razu.nl/nl-wbdrazu/k50907905/689/001/138/nl-wbdrazu-k50907905-689-1138596.alto.xml?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTYzNzA4NTIsIm5iZiI6MTc1NjM3MDg1MiwiZXhwIjoxNzU2Mzc0NDUyLCJmaWxlIjoiL25sLXdiZHJhenUvazUwOTA3OTA1LzY4OS8wMDEvMTM4L25sLXdiZHJhenUtazUwOTA3OTA1LTY4OS0xMTM4NTk2LmFsdG8ueG1sIn0.dAUZqAif5cRe0yc4Xd0duy8DkC2sEwON8KVxzK1_yWk",
+                    "profile": "http://www.loc.gov/standards/alto/v3/alto.xsd",
+                    "format": "text/xml+alto",
+                    "label": "METS-ALTO XML"
+                }
+            ],
+            "thumbnail": [
+                {
+                    "id": "https://iiif.razu.nl/iiif/2/k50907905__nl-wbdrazu__k50907905__689__001__138__nl-wbdrazu-k50907905-689-1138595.jpg/full/200,/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "id": "https://iiif.razu.nl/iiif/2/k50907905__nl-wbdrazu__k50907905__689__001__138__nl-wbdrazu-k50907905-689-1138595.jpg",
+                            "type": "ImageService2",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://data.razu.nl/iiif/canvas/nl-wbdrazu-k50907905-689-1138597",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "14"
+                ]
+            },
+            "height": "6987",
+            "width": "4938",
+            "items": [
+                {
+                    "id": "https://data.razu.nl/iiif/page/nl-wbdrazu-k50907905-689-1138597/painting-annotation-page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://data.razu.nl/iiif/annotation/nl-wbdrazu-k50907905-689-1138597",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://iiif.razu.nl/iiif/2/k50907905__nl-wbdrazu__k50907905__689__001__138__nl-wbdrazu-k50907905-689-1138597.jpg/full/4938,/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.razu.nl/iiif/2/k50907905__nl-wbdrazu__k50907905__689__001__138__nl-wbdrazu-k50907905-689-1138597.jpg",
+                                        "type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "https://data.razu.nl/iiif/canvas/nl-wbdrazu-k50907905-689-1138597"
+                        }
+                    ]
+                }
+            ],
+            "seeAlso": [
+                {
+                    "@id": "https://k50907905.opslag.razu.nl/nl-wbdrazu/k50907905/689/001/138/nl-wbdrazu-k50907905-689-1138598.alto.xml?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTYzNzA4NTIsIm5iZiI6MTc1NjM3MDg1MiwiZXhwIjoxNzU2Mzc0NDUyLCJmaWxlIjoiL25sLXdiZHJhenUvazUwOTA3OTA1LzY4OS8wMDEvMTM4L25sLXdiZHJhenUtazUwOTA3OTA1LTY4OS0xMTM4NTk4LmFsdG8ueG1sIn0.ZihRsIVw4-ju6OOCEbHJ7CbrgMI--auOlZj3vkjpnvI",
+                    "profile": "http://www.loc.gov/standards/alto/v3/alto.xsd",
+                    "format": "text/xml+alto",
+                    "label": "METS-ALTO XML"
+                }
+            ],
+            "thumbnail": [
+                {
+                    "id": "https://iiif.razu.nl/iiif/2/k50907905__nl-wbdrazu__k50907905__689__001__138__nl-wbdrazu-k50907905-689-1138597.jpg/full/200,/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "id": "https://iiif.razu.nl/iiif/2/k50907905__nl-wbdrazu__k50907905__689__001__138__nl-wbdrazu-k50907905-689-1138597.jpg",
+                            "type": "ImageService2",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://data.razu.nl/iiif/canvas/nl-wbdrazu-k50907905-689-1138599",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "15"
+                ]
+            },
+            "height": "7003",
+            "width": "5040",
+            "items": [
+                {
+                    "id": "https://data.razu.nl/iiif/page/nl-wbdrazu-k50907905-689-1138599/painting-annotation-page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://data.razu.nl/iiif/annotation/nl-wbdrazu-k50907905-689-1138599",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://iiif.razu.nl/iiif/2/k50907905__nl-wbdrazu__k50907905__689__001__138__nl-wbdrazu-k50907905-689-1138599.jpg/full/5040,/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.razu.nl/iiif/2/k50907905__nl-wbdrazu__k50907905__689__001__138__nl-wbdrazu-k50907905-689-1138599.jpg",
+                                        "type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "https://data.razu.nl/iiif/canvas/nl-wbdrazu-k50907905-689-1138599"
+                        }
+                    ]
+                }
+            ],
+            "seeAlso": [
+                {
+                    "@id": "https://k50907905.opslag.razu.nl/nl-wbdrazu/k50907905/689/001/138/nl-wbdrazu-k50907905-689-1138600.alto.xml?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTYzNzA4NTIsIm5iZiI6MTc1NjM3MDg1MiwiZXhwIjoxNzU2Mzc0NDUyLCJmaWxlIjoiL25sLXdiZHJhenUvazUwOTA3OTA1LzY4OS8wMDEvMTM4L25sLXdiZHJhenUtazUwOTA3OTA1LTY4OS0xMTM4NjAwLmFsdG8ueG1sIn0.Qy0-HHUG-xqApoujpxrh9Ee2VCQm1q9SlKEnFxku-1c",
+                    "profile": "http://www.loc.gov/standards/alto/v3/alto.xsd",
+                    "format": "text/xml+alto",
+                    "label": "METS-ALTO XML"
+                }
+            ],
+            "thumbnail": [
+                {
+                    "id": "https://iiif.razu.nl/iiif/2/k50907905__nl-wbdrazu__k50907905__689__001__138__nl-wbdrazu-k50907905-689-1138599.jpg/full/200,/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "id": "https://iiif.razu.nl/iiif/2/k50907905__nl-wbdrazu__k50907905__689__001__138__nl-wbdrazu-k50907905-689-1138599.jpg",
+                            "type": "ImageService2",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://data.razu.nl/iiif/canvas/nl-wbdrazu-k50907905-689-1138601",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "16"
+                ]
+            },
+            "height": "6991",
+            "width": "4938",
+            "items": [
+                {
+                    "id": "https://data.razu.nl/iiif/page/nl-wbdrazu-k50907905-689-1138601/painting-annotation-page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://data.razu.nl/iiif/annotation/nl-wbdrazu-k50907905-689-1138601",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://iiif.razu.nl/iiif/2/k50907905__nl-wbdrazu__k50907905__689__001__138__nl-wbdrazu-k50907905-689-1138601.jpg/full/4938,/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.razu.nl/iiif/2/k50907905__nl-wbdrazu__k50907905__689__001__138__nl-wbdrazu-k50907905-689-1138601.jpg",
+                                        "type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "https://data.razu.nl/iiif/canvas/nl-wbdrazu-k50907905-689-1138601"
+                        }
+                    ]
+                }
+            ],
+            "seeAlso": [
+                {
+                    "@id": "https://k50907905.opslag.razu.nl/nl-wbdrazu/k50907905/689/001/138/nl-wbdrazu-k50907905-689-1138602.alto.xml?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTYzNzA4NTIsIm5iZiI6MTc1NjM3MDg1MiwiZXhwIjoxNzU2Mzc0NDUyLCJmaWxlIjoiL25sLXdiZHJhenUvazUwOTA3OTA1LzY4OS8wMDEvMTM4L25sLXdiZHJhenUtazUwOTA3OTA1LTY4OS0xMTM4NjAyLmFsdG8ueG1sIn0.m0nCkvhglaHWdht7qI2Av5V32PEXdDLieHH8oi8XmmQ",
+                    "profile": "http://www.loc.gov/standards/alto/v3/alto.xsd",
+                    "format": "text/xml+alto",
+                    "label": "METS-ALTO XML"
+                }
+            ],
+            "thumbnail": [
+                {
+                    "id": "https://iiif.razu.nl/iiif/2/k50907905__nl-wbdrazu__k50907905__689__001__138__nl-wbdrazu-k50907905-689-1138601.jpg/full/200,/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "id": "https://iiif.razu.nl/iiif/2/k50907905__nl-wbdrazu__k50907905__689__001__138__nl-wbdrazu-k50907905-689-1138601.jpg",
+                            "type": "ImageService2",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://data.razu.nl/iiif/canvas/nl-wbdrazu-k50907905-689-1138603",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "17"
+                ]
+            },
+            "height": "6999",
+            "width": "5048",
+            "items": [
+                {
+                    "id": "https://data.razu.nl/iiif/page/nl-wbdrazu-k50907905-689-1138603/painting-annotation-page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://data.razu.nl/iiif/annotation/nl-wbdrazu-k50907905-689-1138603",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://iiif.razu.nl/iiif/2/k50907905__nl-wbdrazu__k50907905__689__001__138__nl-wbdrazu-k50907905-689-1138603.jpg/full/5048,/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.razu.nl/iiif/2/k50907905__nl-wbdrazu__k50907905__689__001__138__nl-wbdrazu-k50907905-689-1138603.jpg",
+                                        "type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "https://data.razu.nl/iiif/canvas/nl-wbdrazu-k50907905-689-1138603"
+                        }
+                    ]
+                }
+            ],
+            "seeAlso": [
+                {
+                    "@id": "https://k50907905.opslag.razu.nl/nl-wbdrazu/k50907905/689/001/138/nl-wbdrazu-k50907905-689-1138604.alto.xml?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTYzNzA4NTIsIm5iZiI6MTc1NjM3MDg1MiwiZXhwIjoxNzU2Mzc0NDUyLCJmaWxlIjoiL25sLXdiZHJhenUvazUwOTA3OTA1LzY4OS8wMDEvMTM4L25sLXdiZHJhenUtazUwOTA3OTA1LTY4OS0xMTM4NjA0LmFsdG8ueG1sIn0.5czPRW7echod8diYykbU8ypj5pW3jeCaG2tCZ0IHtL0",
+                    "profile": "http://www.loc.gov/standards/alto/v3/alto.xsd",
+                    "format": "text/xml+alto",
+                    "label": "METS-ALTO XML"
+                }
+            ],
+            "thumbnail": [
+                {
+                    "id": "https://iiif.razu.nl/iiif/2/k50907905__nl-wbdrazu__k50907905__689__001__138__nl-wbdrazu-k50907905-689-1138603.jpg/full/200,/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "id": "https://iiif.razu.nl/iiif/2/k50907905__nl-wbdrazu__k50907905__689__001__138__nl-wbdrazu-k50907905-689-1138603.jpg",
+                            "type": "ImageService2",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://data.razu.nl/iiif/canvas/nl-wbdrazu-k50907905-689-1138605",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "18"
+                ]
+            },
+            "height": "7003",
+            "width": "4910",
+            "items": [
+                {
+                    "id": "https://data.razu.nl/iiif/page/nl-wbdrazu-k50907905-689-1138605/painting-annotation-page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://data.razu.nl/iiif/annotation/nl-wbdrazu-k50907905-689-1138605",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://iiif.razu.nl/iiif/2/k50907905__nl-wbdrazu__k50907905__689__001__138__nl-wbdrazu-k50907905-689-1138605.jpg/full/4910,/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.razu.nl/iiif/2/k50907905__nl-wbdrazu__k50907905__689__001__138__nl-wbdrazu-k50907905-689-1138605.jpg",
+                                        "type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "https://data.razu.nl/iiif/canvas/nl-wbdrazu-k50907905-689-1138605"
+                        }
+                    ]
+                }
+            ],
+            "seeAlso": [
+                {
+                    "@id": "https://k50907905.opslag.razu.nl/nl-wbdrazu/k50907905/689/001/138/nl-wbdrazu-k50907905-689-1138606.alto.xml?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTYzNzA4NTIsIm5iZiI6MTc1NjM3MDg1MiwiZXhwIjoxNzU2Mzc0NDUyLCJmaWxlIjoiL25sLXdiZHJhenUvazUwOTA3OTA1LzY4OS8wMDEvMTM4L25sLXdiZHJhenUtazUwOTA3OTA1LTY4OS0xMTM4NjA2LmFsdG8ueG1sIn0.xqd66WcUN6EdEJd4lEO6ZEem8061rb6yvBEKa0SP-uk",
+                    "profile": "http://www.loc.gov/standards/alto/v3/alto.xsd",
+                    "format": "text/xml+alto",
+                    "label": "METS-ALTO XML"
+                }
+            ],
+            "thumbnail": [
+                {
+                    "id": "https://iiif.razu.nl/iiif/2/k50907905__nl-wbdrazu__k50907905__689__001__138__nl-wbdrazu-k50907905-689-1138605.jpg/full/200,/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "id": "https://iiif.razu.nl/iiif/2/k50907905__nl-wbdrazu__k50907905__689__001__138__nl-wbdrazu-k50907905-689-1138605.jpg",
+                            "type": "ImageService2",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://data.razu.nl/iiif/canvas/nl-wbdrazu-k50907905-689-1138607",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "19"
+                ]
+            },
+            "height": "7003",
+            "width": "5032",
+            "items": [
+                {
+                    "id": "https://data.razu.nl/iiif/page/nl-wbdrazu-k50907905-689-1138607/painting-annotation-page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://data.razu.nl/iiif/annotation/nl-wbdrazu-k50907905-689-1138607",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://iiif.razu.nl/iiif/2/k50907905__nl-wbdrazu__k50907905__689__001__138__nl-wbdrazu-k50907905-689-1138607.jpg/full/5032,/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.razu.nl/iiif/2/k50907905__nl-wbdrazu__k50907905__689__001__138__nl-wbdrazu-k50907905-689-1138607.jpg",
+                                        "type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "https://data.razu.nl/iiif/canvas/nl-wbdrazu-k50907905-689-1138607"
+                        }
+                    ]
+                }
+            ],
+            "seeAlso": [
+                {
+                    "@id": "https://k50907905.opslag.razu.nl/nl-wbdrazu/k50907905/689/001/138/nl-wbdrazu-k50907905-689-1138608.alto.xml?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTYzNzA4NTIsIm5iZiI6MTc1NjM3MDg1MiwiZXhwIjoxNzU2Mzc0NDUyLCJmaWxlIjoiL25sLXdiZHJhenUvazUwOTA3OTA1LzY4OS8wMDEvMTM4L25sLXdiZHJhenUtazUwOTA3OTA1LTY4OS0xMTM4NjA4LmFsdG8ueG1sIn0.PQIH2ASUKH0BN9Mn-kpSiVATEDxgJRECd5m1LduEEIU",
+                    "profile": "http://www.loc.gov/standards/alto/v3/alto.xsd",
+                    "format": "text/xml+alto",
+                    "label": "METS-ALTO XML"
+                }
+            ],
+            "thumbnail": [
+                {
+                    "id": "https://iiif.razu.nl/iiif/2/k50907905__nl-wbdrazu__k50907905__689__001__138__nl-wbdrazu-k50907905-689-1138607.jpg/full/200,/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "id": "https://iiif.razu.nl/iiif/2/k50907905__nl-wbdrazu__k50907905__689__001__138__nl-wbdrazu-k50907905-689-1138607.jpg",
+                            "type": "ImageService2",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://data.razu.nl/iiif/canvas/nl-wbdrazu-k50907905-689-1138609",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "20"
+                ]
+            },
+            "height": "6999",
+            "width": "4938",
+            "items": [
+                {
+                    "id": "https://data.razu.nl/iiif/page/nl-wbdrazu-k50907905-689-1138609/painting-annotation-page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://data.razu.nl/iiif/annotation/nl-wbdrazu-k50907905-689-1138609",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://iiif.razu.nl/iiif/2/k50907905__nl-wbdrazu__k50907905__689__001__138__nl-wbdrazu-k50907905-689-1138609.jpg/full/4938,/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.razu.nl/iiif/2/k50907905__nl-wbdrazu__k50907905__689__001__138__nl-wbdrazu-k50907905-689-1138609.jpg",
+                                        "type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "https://data.razu.nl/iiif/canvas/nl-wbdrazu-k50907905-689-1138609"
+                        }
+                    ]
+                }
+            ],
+            "seeAlso": [
+                {
+                    "@id": "https://k50907905.opslag.razu.nl/nl-wbdrazu/k50907905/689/001/138/nl-wbdrazu-k50907905-689-1138610.alto.xml?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTYzNzA4NTIsIm5iZiI6MTc1NjM3MDg1MiwiZXhwIjoxNzU2Mzc0NDUyLCJmaWxlIjoiL25sLXdiZHJhenUvazUwOTA3OTA1LzY4OS8wMDEvMTM4L25sLXdiZHJhenUtazUwOTA3OTA1LTY4OS0xMTM4NjEwLmFsdG8ueG1sIn0.FdoaVhG4j03AHTUMSSTROERYnRVciAqOmp5NwyG91IE",
+                    "profile": "http://www.loc.gov/standards/alto/v3/alto.xsd",
+                    "format": "text/xml+alto",
+                    "label": "METS-ALTO XML"
+                }
+            ],
+            "thumbnail": [
+                {
+                    "id": "https://iiif.razu.nl/iiif/2/k50907905__nl-wbdrazu__k50907905__689__001__138__nl-wbdrazu-k50907905-689-1138609.jpg/full/200,/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "id": "https://iiif.razu.nl/iiif/2/k50907905__nl-wbdrazu__k50907905__689__001__138__nl-wbdrazu-k50907905-689-1138609.jpg",
+                            "type": "ImageService2",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://data.razu.nl/iiif/canvas/nl-wbdrazu-k50907905-689-1138611",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "21"
+                ]
+            },
+            "height": "7011",
+            "width": "5012",
+            "items": [
+                {
+                    "id": "https://data.razu.nl/iiif/page/nl-wbdrazu-k50907905-689-1138611/painting-annotation-page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://data.razu.nl/iiif/annotation/nl-wbdrazu-k50907905-689-1138611",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://iiif.razu.nl/iiif/2/k50907905__nl-wbdrazu__k50907905__689__001__138__nl-wbdrazu-k50907905-689-1138611.jpg/full/5012,/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.razu.nl/iiif/2/k50907905__nl-wbdrazu__k50907905__689__001__138__nl-wbdrazu-k50907905-689-1138611.jpg",
+                                        "type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "https://data.razu.nl/iiif/canvas/nl-wbdrazu-k50907905-689-1138611"
+                        }
+                    ]
+                }
+            ],
+            "seeAlso": [
+                {
+                    "@id": "https://k50907905.opslag.razu.nl/nl-wbdrazu/k50907905/689/001/138/nl-wbdrazu-k50907905-689-1138612.alto.xml?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTYzNzA4NTIsIm5iZiI6MTc1NjM3MDg1MiwiZXhwIjoxNzU2Mzc0NDUyLCJmaWxlIjoiL25sLXdiZHJhenUvazUwOTA3OTA1LzY4OS8wMDEvMTM4L25sLXdiZHJhenUtazUwOTA3OTA1LTY4OS0xMTM4NjEyLmFsdG8ueG1sIn0.rkhXQWmQD2N7tdje0xh56IBFYdJvIlM_k38V0qPn3D8",
+                    "profile": "http://www.loc.gov/standards/alto/v3/alto.xsd",
+                    "format": "text/xml+alto",
+                    "label": "METS-ALTO XML"
+                }
+            ],
+            "thumbnail": [
+                {
+                    "id": "https://iiif.razu.nl/iiif/2/k50907905__nl-wbdrazu__k50907905__689__001__138__nl-wbdrazu-k50907905-689-1138611.jpg/full/200,/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "id": "https://iiif.razu.nl/iiif/2/k50907905__nl-wbdrazu__k50907905__689__001__138__nl-wbdrazu-k50907905-689-1138611.jpg",
+                            "type": "ImageService2",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://data.razu.nl/iiif/canvas/nl-wbdrazu-k50907905-689-1138613",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "22"
+                ]
+            },
+            "height": "7003",
+            "width": "4942",
+            "items": [
+                {
+                    "id": "https://data.razu.nl/iiif/page/nl-wbdrazu-k50907905-689-1138613/painting-annotation-page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://data.razu.nl/iiif/annotation/nl-wbdrazu-k50907905-689-1138613",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://iiif.razu.nl/iiif/2/k50907905__nl-wbdrazu__k50907905__689__001__138__nl-wbdrazu-k50907905-689-1138613.jpg/full/4942,/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.razu.nl/iiif/2/k50907905__nl-wbdrazu__k50907905__689__001__138__nl-wbdrazu-k50907905-689-1138613.jpg",
+                                        "type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "https://data.razu.nl/iiif/canvas/nl-wbdrazu-k50907905-689-1138613"
+                        }
+                    ]
+                }
+            ],
+            "seeAlso": [
+                {
+                    "@id": "https://k50907905.opslag.razu.nl/nl-wbdrazu/k50907905/689/001/138/nl-wbdrazu-k50907905-689-1138614.alto.xml?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTYzNzA4NTIsIm5iZiI6MTc1NjM3MDg1MiwiZXhwIjoxNzU2Mzc0NDUyLCJmaWxlIjoiL25sLXdiZHJhenUvazUwOTA3OTA1LzY4OS8wMDEvMTM4L25sLXdiZHJhenUtazUwOTA3OTA1LTY4OS0xMTM4NjE0LmFsdG8ueG1sIn0.OhqiJ0rStKGcEJAJZxDJer74RWI4AlWgi2wwLcNndIU",
+                    "profile": "http://www.loc.gov/standards/alto/v3/alto.xsd",
+                    "format": "text/xml+alto",
+                    "label": "METS-ALTO XML"
+                }
+            ],
+            "thumbnail": [
+                {
+                    "id": "https://iiif.razu.nl/iiif/2/k50907905__nl-wbdrazu__k50907905__689__001__138__nl-wbdrazu-k50907905-689-1138613.jpg/full/200,/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "id": "https://iiif.razu.nl/iiif/2/k50907905__nl-wbdrazu__k50907905__689__001__138__nl-wbdrazu-k50907905-689-1138613.jpg",
+                            "type": "ImageService2",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://data.razu.nl/iiif/canvas/nl-wbdrazu-k50907905-689-1138615",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "23"
+                ]
+            },
+            "height": "7011",
+            "width": "5036",
+            "items": [
+                {
+                    "id": "https://data.razu.nl/iiif/page/nl-wbdrazu-k50907905-689-1138615/painting-annotation-page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://data.razu.nl/iiif/annotation/nl-wbdrazu-k50907905-689-1138615",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://iiif.razu.nl/iiif/2/k50907905__nl-wbdrazu__k50907905__689__001__138__nl-wbdrazu-k50907905-689-1138615.jpg/full/5036,/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.razu.nl/iiif/2/k50907905__nl-wbdrazu__k50907905__689__001__138__nl-wbdrazu-k50907905-689-1138615.jpg",
+                                        "type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "https://data.razu.nl/iiif/canvas/nl-wbdrazu-k50907905-689-1138615"
+                        }
+                    ]
+                }
+            ],
+            "seeAlso": [
+                {
+                    "@id": "https://k50907905.opslag.razu.nl/nl-wbdrazu/k50907905/689/001/138/nl-wbdrazu-k50907905-689-1138616.alto.xml?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTYzNzA4NTIsIm5iZiI6MTc1NjM3MDg1MiwiZXhwIjoxNzU2Mzc0NDUyLCJmaWxlIjoiL25sLXdiZHJhenUvazUwOTA3OTA1LzY4OS8wMDEvMTM4L25sLXdiZHJhenUtazUwOTA3OTA1LTY4OS0xMTM4NjE2LmFsdG8ueG1sIn0.sFIZGme4Mt1672Q-UKA6jL_aW8-6VP4ZgWAzkQgUN_g",
+                    "profile": "http://www.loc.gov/standards/alto/v3/alto.xsd",
+                    "format": "text/xml+alto",
+                    "label": "METS-ALTO XML"
+                }
+            ],
+            "thumbnail": [
+                {
+                    "id": "https://iiif.razu.nl/iiif/2/k50907905__nl-wbdrazu__k50907905__689__001__138__nl-wbdrazu-k50907905-689-1138615.jpg/full/200,/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "id": "https://iiif.razu.nl/iiif/2/k50907905__nl-wbdrazu__k50907905__689__001__138__nl-wbdrazu-k50907905-689-1138615.jpg",
+                            "type": "ImageService2",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://data.razu.nl/iiif/canvas/nl-wbdrazu-k50907905-689-1138617",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "24"
+                ]
+            },
+            "height": "7007",
+            "width": "4938",
+            "items": [
+                {
+                    "id": "https://data.razu.nl/iiif/page/nl-wbdrazu-k50907905-689-1138617/painting-annotation-page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://data.razu.nl/iiif/annotation/nl-wbdrazu-k50907905-689-1138617",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://iiif.razu.nl/iiif/2/k50907905__nl-wbdrazu__k50907905__689__001__138__nl-wbdrazu-k50907905-689-1138617.jpg/full/4938,/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.razu.nl/iiif/2/k50907905__nl-wbdrazu__k50907905__689__001__138__nl-wbdrazu-k50907905-689-1138617.jpg",
+                                        "type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "https://data.razu.nl/iiif/canvas/nl-wbdrazu-k50907905-689-1138617"
+                        }
+                    ]
+                }
+            ],
+            "seeAlso": [
+                {
+                    "@id": "https://k50907905.opslag.razu.nl/nl-wbdrazu/k50907905/689/001/138/nl-wbdrazu-k50907905-689-1138618.alto.xml?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTYzNzA4NTIsIm5iZiI6MTc1NjM3MDg1MiwiZXhwIjoxNzU2Mzc0NDUyLCJmaWxlIjoiL25sLXdiZHJhenUvazUwOTA3OTA1LzY4OS8wMDEvMTM4L25sLXdiZHJhenUtazUwOTA3OTA1LTY4OS0xMTM4NjE4LmFsdG8ueG1sIn0.KjFlt0Rsx0ONS9oAE4scdarVLbWMg9ycn_2Fz7l8kgc",
+                    "profile": "http://www.loc.gov/standards/alto/v3/alto.xsd",
+                    "format": "text/xml+alto",
+                    "label": "METS-ALTO XML"
+                }
+            ],
+            "thumbnail": [
+                {
+                    "id": "https://iiif.razu.nl/iiif/2/k50907905__nl-wbdrazu__k50907905__689__001__138__nl-wbdrazu-k50907905-689-1138617.jpg/full/200,/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "id": "https://iiif.razu.nl/iiif/2/k50907905__nl-wbdrazu__k50907905__689__001__138__nl-wbdrazu-k50907905-689-1138617.jpg",
+                            "type": "ImageService2",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://data.razu.nl/iiif/canvas/nl-wbdrazu-k50907905-689-1138619",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "25"
+                ]
+            },
+            "height": "7007",
+            "width": "5044",
+            "items": [
+                {
+                    "id": "https://data.razu.nl/iiif/page/nl-wbdrazu-k50907905-689-1138619/painting-annotation-page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://data.razu.nl/iiif/annotation/nl-wbdrazu-k50907905-689-1138619",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://iiif.razu.nl/iiif/2/k50907905__nl-wbdrazu__k50907905__689__001__138__nl-wbdrazu-k50907905-689-1138619.jpg/full/5044,/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.razu.nl/iiif/2/k50907905__nl-wbdrazu__k50907905__689__001__138__nl-wbdrazu-k50907905-689-1138619.jpg",
+                                        "type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "https://data.razu.nl/iiif/canvas/nl-wbdrazu-k50907905-689-1138619"
+                        }
+                    ]
+                }
+            ],
+            "seeAlso": [
+                {
+                    "@id": "https://k50907905.opslag.razu.nl/nl-wbdrazu/k50907905/689/001/138/nl-wbdrazu-k50907905-689-1138620.alto.xml?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTYzNzA4NTIsIm5iZiI6MTc1NjM3MDg1MiwiZXhwIjoxNzU2Mzc0NDUyLCJmaWxlIjoiL25sLXdiZHJhenUvazUwOTA3OTA1LzY4OS8wMDEvMTM4L25sLXdiZHJhenUtazUwOTA3OTA1LTY4OS0xMTM4NjIwLmFsdG8ueG1sIn0.LeTq3-ZtRWXo0wBpqS6Aw8nEdVe88gKgh28k68K8tYM",
+                    "profile": "http://www.loc.gov/standards/alto/v3/alto.xsd",
+                    "format": "text/xml+alto",
+                    "label": "METS-ALTO XML"
+                }
+            ],
+            "thumbnail": [
+                {
+                    "id": "https://iiif.razu.nl/iiif/2/k50907905__nl-wbdrazu__k50907905__689__001__138__nl-wbdrazu-k50907905-689-1138619.jpg/full/200,/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "id": "https://iiif.razu.nl/iiif/2/k50907905__nl-wbdrazu__k50907905__689__001__138__nl-wbdrazu-k50907905-689-1138619.jpg",
+                            "type": "ImageService2",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://data.razu.nl/iiif/canvas/nl-wbdrazu-k50907905-689-1138621",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "26"
+                ]
+            },
+            "height": "7003",
+            "width": "4958",
+            "items": [
+                {
+                    "id": "https://data.razu.nl/iiif/page/nl-wbdrazu-k50907905-689-1138621/painting-annotation-page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://data.razu.nl/iiif/annotation/nl-wbdrazu-k50907905-689-1138621",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://iiif.razu.nl/iiif/2/k50907905__nl-wbdrazu__k50907905__689__001__138__nl-wbdrazu-k50907905-689-1138621.jpg/full/4958,/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.razu.nl/iiif/2/k50907905__nl-wbdrazu__k50907905__689__001__138__nl-wbdrazu-k50907905-689-1138621.jpg",
+                                        "type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "https://data.razu.nl/iiif/canvas/nl-wbdrazu-k50907905-689-1138621"
+                        }
+                    ]
+                }
+            ],
+            "seeAlso": [
+                {
+                    "@id": "https://k50907905.opslag.razu.nl/nl-wbdrazu/k50907905/689/001/138/nl-wbdrazu-k50907905-689-1138622.alto.xml?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTYzNzA4NTIsIm5iZiI6MTc1NjM3MDg1MiwiZXhwIjoxNzU2Mzc0NDUyLCJmaWxlIjoiL25sLXdiZHJhenUvazUwOTA3OTA1LzY4OS8wMDEvMTM4L25sLXdiZHJhenUtazUwOTA3OTA1LTY4OS0xMTM4NjIyLmFsdG8ueG1sIn0.5wL9ndnzvFl1BKj9pMp9-o_MterS1crTetK0So84MtE",
+                    "profile": "http://www.loc.gov/standards/alto/v3/alto.xsd",
+                    "format": "text/xml+alto",
+                    "label": "METS-ALTO XML"
+                }
+            ],
+            "thumbnail": [
+                {
+                    "id": "https://iiif.razu.nl/iiif/2/k50907905__nl-wbdrazu__k50907905__689__001__138__nl-wbdrazu-k50907905-689-1138621.jpg/full/200,/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "id": "https://iiif.razu.nl/iiif/2/k50907905__nl-wbdrazu__k50907905__689__001__138__nl-wbdrazu-k50907905-689-1138621.jpg",
+                            "type": "ImageService2",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "requiredStatement": {
+        "label": {
+            "en": [
+                "Copyright"
+            ]
+        },
+        "value": {
+            "en": [
+                "Auteursrecht onbekend. Het zou kunnen dat nog auteursrecht rust op (delen van) dit object."
+            ]
+        }
+    }
+}
